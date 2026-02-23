@@ -1,0 +1,8 @@
+{
+  "comparator_output": 12,
+  "description": {
+    "translate": "jukebox_song.moredisc.disc_maneater"
+  },
+  "length_in_seconds": 258.0,
+  "sound_event": "moredisc:music_disc.maneater"
+}

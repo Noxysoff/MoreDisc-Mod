@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/template_music_disc",
+  "textures": {
+    "layer0": "moredisc:item/music_disc_music_sounds_better_with_you_radio_edit"
+  }
+}

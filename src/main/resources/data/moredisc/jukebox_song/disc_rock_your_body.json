@@ -1,0 +1,8 @@
+{
+  "comparator_output": 12,
+  "description": {
+    "translate": "jukebox_song.moredisc.disc_rock_your_body"
+  },
+  "length_in_seconds": 267.0,
+  "sound_event": "moredisc:music_disc.rock_your_body"
+}

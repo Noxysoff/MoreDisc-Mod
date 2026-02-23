@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "moredisc",
+  "version": "${version}",
+  "name": "MoreDisc",
+  "description": "Ajoute plusieurs nouveaux disques musicaux craftables.",
+  "authors": [
+    "chavi"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+  "license": "CC0-1.0",
+  "icon": "assets/moredisc/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "fr.chavi.moredisc.MoreDiscMod"
+    ],
+    "client": [
+      "fr.chavi.moredisc.MoreDiscClient"
+    ]
+  },
+  "mixins": [
+    {
+      "config": "moredisc.client.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "depends": {
+    "fabricloader": ">=0.18.4",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

@@ -1,0 +1,9 @@
+Place your OGG music files in this folder using these exact names:
+- sunset_synth.ogg
+- cavern_echo.ogg
+- storm_break.ogg
+- nether_bass.ogg
+- starlight_drive.ogg
+- deep_ocean.ogg
+- dawn_chime.ogg
+- void_pulse.ogg

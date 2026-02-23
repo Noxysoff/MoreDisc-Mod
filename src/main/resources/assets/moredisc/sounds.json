@@ -1,0 +1,90 @@
+{
+  "music_disc.christmas": {
+    "sounds": [
+      {
+        "name": "moredisc:records/all_i_want_for_christmas_is_you",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.femboy": {
+    "sounds": [
+      {
+        "name": "moredisc:records/femboy_feat_erisu",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.gimme_more": {
+    "sounds": [
+      {
+        "name": "moredisc:records/gimme_more",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.drake_gods_plan": {
+    "sounds": [
+      {
+        "name": "moredisc:records/drake_gods_plan",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.old_town_road": {
+    "sounds": [
+      {
+        "name": "moredisc:records/old_town_road",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.maneater": {
+    "sounds": [
+      {
+        "name": "moredisc:records/maneater",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.confine": {
+    "sounds": [
+      {
+        "name": "moredisc:records/confine",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.rock_your_body": {
+    "sounds": [
+      {
+        "name": "moredisc:records/rock_your_body",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.music_sounds_better_with_you_radio_edit": {
+    "sounds": [
+      {
+        "name": "moredisc:records/music_sounds_better_with_you_radio_edit",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.meaningful_love_slowed_instrumental": {
+    "sounds": [
+      {
+        "name": "moredisc:records/meaningful_love_slowed_instrumental",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.for_sure": {
+    "sounds": [
+      {
+        "name": "moredisc:records/for_sure_macron_remix",
+        "stream": true
+      }
+    ]
+  }
+}

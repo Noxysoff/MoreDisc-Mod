@@ -1,0 +1,12 @@
+{
+	"required": true,
+	"package": "fr.chavi.moredisc.mixin.client",
+	"compatibilityLevel": "JAVA_21",
+	"client": [
+		"CreativeInventoryScreenMixin",
+		"CreativeScreenHandlerAccessor"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
