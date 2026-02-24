@@ -33,10 +33,12 @@ public final class ModItemGroups {
 
 	private static final class SearchableItemGroupBuilder extends ItemGroup.Builder {
 		private SearchableItemGroupBuilder() {
-			super(null, -1);
+			super(ItemGroup.Row.TOP, 0);
 		}
 
 		private SearchableItemGroupBuilder asSearchGroup() {
+			this.texture(ItemGroup.getTabTextureId("item_search"));
+			this.special();
 			this.type(ItemGroup.Type.SEARCH);
 			return this;
 		}
