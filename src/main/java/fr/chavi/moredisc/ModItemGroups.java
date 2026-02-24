@@ -22,7 +22,7 @@ public final class ModItemGroups {
 		MORE_DISC_GROUP = Registry.register(Registries.ITEM_GROUP, MORE_DISC_GROUP_KEY, new SearchableItemGroupBuilder()
 			.asSearchGroup()
 			.displayName(Text.translatable("itemGroup.moredisc.discs"))
-			.icon(() -> new ItemStack(Registries.ITEM.get(Identifier.of(MoreDiscMod.MOD_ID, "disc_christmas"))))
+			.icon(() -> new ItemStack(Registries.ITEM.get(Identifier.of(MoreDiscMod.MOD_ID, "disc_for_sure"))))
 			.entries((context, entries) -> {
 				for (var disc : ModDiscs.getRegisteredDiscs()) {
 					entries.add(disc);
@@ -33,7 +33,7 @@ public final class ModItemGroups {
 
 	private static final class SearchableItemGroupBuilder extends ItemGroup.Builder {
 		private SearchableItemGroupBuilder() {
-			super(ItemGroup.Row.TOP, 0);
+			super(ItemGroup.Row.TOP, 6);
 		}
 
 		private SearchableItemGroupBuilder asSearchGroup() {

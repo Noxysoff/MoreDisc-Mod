@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "key": {
+    "#": "minecraft:black_dye",
+    "X": "minecraft:paper"
+  },
+  "result": {
+    "count": 1,
+    "id": "moredisc:disc_give_it_to_me_02"
+  }
+}

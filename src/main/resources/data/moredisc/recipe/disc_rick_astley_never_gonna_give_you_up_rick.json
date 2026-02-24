@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "key": {
+    "#": "minecraft:black_dye",
+    "X": "minecraft:name_tag"
+  },
+  "result": {
+    "count": 1,
+    "id": "moredisc:disc_rick_astley_never_gonna_give_you_up_rick"
+  }
+}

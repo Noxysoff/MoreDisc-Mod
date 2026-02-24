@@ -1,0 +1,8 @@
+{
+  "comparator_output": 10,
+  "description": {
+    "translate": "jukebox_song.moredisc.disc_the_days_notion_remix"
+  },
+  "length_in_seconds": 233,
+  "sound_event": "moredisc:music_disc.the_days_notion_remix"
+}

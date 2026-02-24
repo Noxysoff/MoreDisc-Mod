@@ -13,7 +13,7 @@ import net.minecraft.registry.RegistryKey;
 import net.minecraft.registry.RegistryKeys;
 
 public final class ModDiscs {
-	public static final int TRACK_COUNT = 11;
+	public static final int TRACK_COUNT = 23;
 
 	private static final DiscDefinition[] DISC_DEFINITIONS = {
 		new DiscDefinition("disc_christmas", "disc_christmas", Rarity.RARE),
@@ -34,7 +34,27 @@ public final class ModDiscs {
 			"disc_meaningful_love_slowed_instrumental",
 			Rarity.RARE
 		),
-		new DiscDefinition("disc_for_sure", "disc_for_sure", Rarity.RARE)
+		new DiscDefinition("disc_for_sure", "disc_for_sure", Rarity.RARE),
+		new DiscDefinition("disc_millionaire", "disc_millionaire", Rarity.RARE),
+		new DiscDefinition("disc_miel_pops", "disc_miel_pops", Rarity.EPIC),
+		new DiscDefinition("disc_the_days_notion_remix", "disc_the_days_notion_remix", Rarity.RARE),
+		new DiscDefinition("disc_promiscuous", "disc_promiscuous", Rarity.RARE),
+		new DiscDefinition("disc_its_my_bass", "disc_its_my_bass", Rarity.RARE),
+		new DiscDefinition(
+			"disc_offender_dimension_grafix_remix",
+			"disc_offender_dimension_grafix_remix",
+			Rarity.RARE
+		),
+		new DiscDefinition(
+			"disc_rick_astley_never_gonna_give_you_up_rick",
+			"disc_rick_astley_never_gonna_give_you_up_rick",
+			Rarity.EPIC
+		),
+		new DiscDefinition("disc_give_it_to_me_02", "disc_give_it_to_me_02", Rarity.RARE),
+		new DiscDefinition("disc_im_a_pancake", "disc_im_a_pancake", Rarity.EPIC),
+		new DiscDefinition("disc_tf1", "disc_tf1", Rarity.EPIC),
+		new DiscDefinition("disc_psycho_nv", "disc_psycho_nv", Rarity.RARE),
+		new DiscDefinition("disc_panic_room", "disc_panic_room", Rarity.RARE)
 	};
 
 	private static final List<Item> REGISTERED_DISCS = new ArrayList<>();

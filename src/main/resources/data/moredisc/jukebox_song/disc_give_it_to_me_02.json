@@ -1,0 +1,8 @@
+{
+  "comparator_output": 10,
+  "description": {
+    "translate": "jukebox_song.moredisc.disc_give_it_to_me_02"
+  },
+  "length_in_seconds": 233,
+  "sound_event": "moredisc:music_disc.give_it_to_me_02"
+}

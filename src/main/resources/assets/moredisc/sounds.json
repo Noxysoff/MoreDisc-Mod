@@ -7,18 +7,10 @@
       }
     ]
   },
-  "music_disc.femboy": {
+  "music_disc.confine": {
     "sounds": [
       {
-        "name": "moredisc:records/femboy_feat_erisu",
-        "stream": true
-      }
-    ]
-  },
-  "music_disc.gimme_more": {
-    "sounds": [
-      {
-        "name": "moredisc:records/gimme_more",
+        "name": "moredisc:records/confine",
         "stream": true
       }
     ]
@@ -31,10 +23,50 @@
       }
     ]
   },
-  "music_disc.old_town_road": {
+  "music_disc.femboy": {
     "sounds": [
       {
-        "name": "moredisc:records/old_town_road",
+        "name": "moredisc:records/femboy_feat_erisu",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.for_sure": {
+    "sounds": [
+      {
+        "name": "moredisc:records/for_sure_macron_remix",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.gimme_more": {
+    "sounds": [
+      {
+        "name": "moredisc:records/gimme_more",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.give_it_to_me_02": {
+    "sounds": [
+      {
+        "name": "moredisc:records/give_it_to_me_02",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.im_a_pancake": {
+    "sounds": [
+      {
+        "name": "moredisc:records/im_a_pancake",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.its_my_bass": {
+    "sounds": [
+      {
+        "name": "moredisc:records/its_my_bass",
         "stream": true
       }
     ]
@@ -47,18 +79,26 @@
       }
     ]
   },
-  "music_disc.confine": {
+  "music_disc.meaningful_love_slowed_instrumental": {
     "sounds": [
       {
-        "name": "moredisc:records/confine",
+        "name": "moredisc:records/meaningful_love_slowed_instrumental",
         "stream": true
       }
     ]
   },
-  "music_disc.rock_your_body": {
+  "music_disc.miel_pops": {
     "sounds": [
       {
-        "name": "moredisc:records/rock_your_body",
+        "name": "moredisc:records/miel_pops",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.millionaire": {
+    "sounds": [
+      {
+        "name": "moredisc:records/millionaire",
         "stream": true
       }
     ]
@@ -71,18 +111,74 @@
       }
     ]
   },
-  "music_disc.meaningful_love_slowed_instrumental": {
+  "music_disc.offender_dimension_grafix_remix": {
     "sounds": [
       {
-        "name": "moredisc:records/meaningful_love_slowed_instrumental",
+        "name": "moredisc:records/offender_dimension_grafix_remix",
         "stream": true
       }
     ]
   },
-  "music_disc.for_sure": {
+  "music_disc.old_town_road": {
     "sounds": [
       {
-        "name": "moredisc:records/for_sure_macron_remix",
+        "name": "moredisc:records/old_town_road",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.panic_room": {
+    "sounds": [
+      {
+        "name": "moredisc:records/panic-room",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.psycho_nv": {
+    "sounds": [
+      {
+        "name": "moredisc:records/psycho-nv",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.promiscuous": {
+    "sounds": [
+      {
+        "name": "moredisc:records/promiscuous",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.rick_astley_never_gonna_give_you_up_rick": {
+    "sounds": [
+      {
+        "name": "moredisc:records/rick_astley_never_gonna_give_you_up_rick",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.rock_your_body": {
+    "sounds": [
+      {
+        "name": "moredisc:records/rock_your_body",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.the_days_notion_remix": {
+    "sounds": [
+      {
+        "name": "moredisc:records/the_days_notion_remix",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.tf1": {
+    "sounds": [
+      {
+        "name": "moredisc:records/tf1",
         "stream": true
       }
     ]

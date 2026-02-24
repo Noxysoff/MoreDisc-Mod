@@ -1,0 +1,8 @@
+{
+  "comparator_output": 10,
+  "description": {
+    "translate": "jukebox_song.moredisc.disc_im_a_pancake"
+  },
+  "length_in_seconds": 28,
+  "sound_event": "moredisc:music_disc.im_a_pancake"
+}

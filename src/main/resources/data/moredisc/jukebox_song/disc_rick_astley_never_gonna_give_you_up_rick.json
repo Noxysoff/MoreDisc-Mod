@@ -1,0 +1,8 @@
+{
+  "comparator_output": 10,
+  "description": {
+    "translate": "jukebox_song.moredisc.disc_rick_astley_never_gonna_give_you_up_rick"
+  },
+  "length_in_seconds": 213,
+  "sound_event": "moredisc:music_disc.rick_astley_never_gonna_give_you_up_rick"
+}

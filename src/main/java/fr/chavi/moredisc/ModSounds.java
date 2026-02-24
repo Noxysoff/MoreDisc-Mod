@@ -19,6 +19,20 @@ public final class ModSounds {
 	public static final SoundEvent MUSIC_DISC_MEANINGFUL_LOVE_SLOWED_INSTRUMENTAL =
 		register("music_disc.meaningful_love_slowed_instrumental");
 	public static final SoundEvent MUSIC_DISC_FOR_SURE = register("music_disc.for_sure");
+	public static final SoundEvent MUSIC_DISC_MILLIONAIRE = register("music_disc.millionaire");
+	public static final SoundEvent MUSIC_DISC_MIEL_POPS = register("music_disc.miel_pops");
+	public static final SoundEvent MUSIC_DISC_THE_DAYS_NOTION_REMIX = register("music_disc.the_days_notion_remix");
+	public static final SoundEvent MUSIC_DISC_PROMISCUOUS = register("music_disc.promiscuous");
+	public static final SoundEvent MUSIC_DISC_ITS_MY_BASS = register("music_disc.its_my_bass");
+	public static final SoundEvent MUSIC_DISC_OFFENDER_DIMENSION_GRAFIX_REMIX =
+		register("music_disc.offender_dimension_grafix_remix");
+	public static final SoundEvent MUSIC_DISC_RICK_ASTLEY_NEVER_GONNA_GIVE_YOU_UP_RICK =
+		register("music_disc.rick_astley_never_gonna_give_you_up_rick");
+	public static final SoundEvent MUSIC_DISC_GIVE_IT_TO_ME_02 = register("music_disc.give_it_to_me_02");
+	public static final SoundEvent MUSIC_DISC_IM_A_PANCAKE = register("music_disc.im_a_pancake");
+	public static final SoundEvent MUSIC_DISC_TF1 = register("music_disc.tf1");
+	public static final SoundEvent MUSIC_DISC_PSYCHO_NV = register("music_disc.psycho_nv");
+	public static final SoundEvent MUSIC_DISC_PANIC_ROOM = register("music_disc.panic_room");
 
 	private ModSounds() {
 	}

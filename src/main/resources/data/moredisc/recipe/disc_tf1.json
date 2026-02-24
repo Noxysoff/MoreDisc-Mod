@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "key": {
+    "#": "minecraft:black_dye",
+    "X": "minecraft:clock"
+  },
+  "result": {
+    "count": 1,
+    "id": "moredisc:disc_tf1"
+  }
+}
