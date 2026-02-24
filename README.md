@@ -50,7 +50,7 @@ Les suggestions sont les bienvenues !
 ## 🛠 Installation
 
 1. Installez Minecraft compatible avec la version du mod
-2. Installez le loader `Fabrid` avec `Fabric API`
+2. Installez le loader `Fabric` avec `Fabric API`
 3. Placez le fichier `.jar` dans le dossier `mods`
 4. Lancez le jeu et profitez 🎧
 
