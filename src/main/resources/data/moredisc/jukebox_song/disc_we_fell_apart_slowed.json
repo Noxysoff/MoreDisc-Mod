@@ -1,0 +1,8 @@
+{
+  "comparator_output": 10,
+  "description": {
+    "translate": "jukebox_song.moredisc.disc_we_fell_apart_slowed"
+  },
+  "length_in_seconds": 155,
+  "sound_event": "moredisc:music_disc.we_fell_apart_slowed"
+}

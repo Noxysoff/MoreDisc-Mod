@@ -1,0 +1,8 @@
+{
+  "comparator_output": 10,
+  "description": {
+    "translate": "jukebox_song.moredisc.disc_nightmare_azari"
+  },
+  "length_in_seconds": 126,
+  "sound_event": "moredisc:music_disc.nightmare_azari"
+}

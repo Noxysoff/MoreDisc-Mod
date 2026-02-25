@@ -1,8 +1,24 @@
 {
+  "music_disc.athena_smle_eternal": {
+    "sounds": [
+      {
+        "name": "moredisc:records/athena_smle_eternal",
+        "stream": true
+      }
+    ]
+  },
   "music_disc.christmas": {
     "sounds": [
       {
         "name": "moredisc:records/all_i_want_for_christmas_is_you",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.clash_assassins": {
+    "sounds": [
+      {
+        "name": "moredisc:records/clash_assassins",
         "stream": true
       }
     ]
@@ -27,6 +43,14 @@
     "sounds": [
       {
         "name": "moredisc:records/femboy_feat_erisu",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.fine_line_instrumental": {
+    "sounds": [
+      {
+        "name": "moredisc:records/fine_line_instrumental",
         "stream": true
       }
     ]
@@ -71,10 +95,26 @@
       }
     ]
   },
+  "music_disc.joyca_true_du_q": {
+    "sounds": [
+      {
+        "name": "moredisc:records/joyca-true_du_q",
+        "stream": true
+      }
+    ]
+  },
   "music_disc.maneater": {
     "sounds": [
       {
         "name": "moredisc:records/maneater",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.mastu_belek": {
+    "sounds": [
+      {
+        "name": "moredisc:records/mastu-belek",
         "stream": true
       }
     ]
@@ -111,6 +151,22 @@
       }
     ]
   },
+  "music_disc.nightcall": {
+    "sounds": [
+      {
+        "name": "moredisc:records/nightcall",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.nightmare_azari": {
+    "sounds": [
+      {
+        "name": "moredisc:records/nightmare_azari",
+        "stream": true
+      }
+    ]
+  },
   "music_disc.offender_dimension_grafix_remix": {
     "sounds": [
       {
@@ -127,6 +183,30 @@
       }
     ]
   },
+  "music_disc.on_dat_bxtch_slowed": {
+    "sounds": [
+      {
+        "name": "moredisc:records/on_dat_bxtch_slowed",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.one_more_time": {
+    "sounds": [
+      {
+        "name": "moredisc:records/one_more_time",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.ooyy_come_2gether_bass_boosted": {
+    "sounds": [
+      {
+        "name": "moredisc:records/ooyy_come_2gether_bass_boosted",
+        "stream": true
+      }
+    ]
+  },
   "music_disc.panic_room": {
     "sounds": [
       {
@@ -135,10 +215,10 @@
       }
     ]
   },
-  "music_disc.psycho_nv": {
+  "music_disc.poker_face": {
     "sounds": [
       {
-        "name": "moredisc:records/psycho-nv",
+        "name": "moredisc:records/poker_face",
         "stream": true
       }
     ]
@@ -151,10 +231,26 @@
       }
     ]
   },
+  "music_disc.psycho_nv": {
+    "sounds": [
+      {
+        "name": "moredisc:records/psycho-nv",
+        "stream": true
+      }
+    ]
+  },
   "music_disc.rick_astley_never_gonna_give_you_up_rick": {
     "sounds": [
       {
         "name": "moredisc:records/rick_astley_never_gonna_give_you_up_rick",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.right_here_right_now": {
+    "sounds": [
+      {
+        "name": "moredisc:records/right_here_right_now",
         "stream": true
       }
     ]
@@ -167,6 +263,14 @@
       }
     ]
   },
+  "music_disc.tf1": {
+    "sounds": [
+      {
+        "name": "moredisc:records/tf1",
+        "stream": true
+      }
+    ]
+  },
   "music_disc.the_days_notion_remix": {
     "sounds": [
       {
@@ -175,10 +279,34 @@
       }
     ]
   },
-  "music_disc.tf1": {
+  "music_disc.the_void_slowed": {
     "sounds": [
       {
-        "name": "moredisc:records/tf1",
+        "name": "moredisc:records/the_void_slowed",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.vaporchrome_decked_slowed_reverb": {
+    "sounds": [
+      {
+        "name": "moredisc:records/vaporchrome_decked_slowed_reverb",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.we_fell_apart_slowed": {
+    "sounds": [
+      {
+        "name": "moredisc:records/we_fell_apart_slowed",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.your_spell": {
+    "sounds": [
+      {
+        "name": "moredisc:records/your_spell",
         "stream": true
       }
     ]

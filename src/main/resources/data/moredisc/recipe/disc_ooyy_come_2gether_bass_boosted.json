@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "key": {
+    "#": "minecraft:black_dye",
+    "X": "minecraft:prismarine_crystals"
+  },
+  "result": {
+    "count": 1,
+    "id": "moredisc:disc_ooyy_come_2gether_bass_boosted"
+  }
+}

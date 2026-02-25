@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "key": {
+    "#": "minecraft:black_dye",
+    "X": "minecraft:netherite_scrap"
+  },
+  "result": {
+    "count": 1,
+    "id": "moredisc:disc_vaporchrome_decked_slowed_reverb"
+  }
+}

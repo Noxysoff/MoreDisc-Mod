@@ -1,0 +1,8 @@
+{
+  "comparator_output": 10,
+  "description": {
+    "translate": "jukebox_song.moredisc.disc_clash_assassins"
+  },
+  "length_in_seconds": 156,
+  "sound_event": "moredisc:music_disc.clash_assassins"
+}

@@ -33,6 +33,24 @@ public final class ModSounds {
 	public static final SoundEvent MUSIC_DISC_TF1 = register("music_disc.tf1");
 	public static final SoundEvent MUSIC_DISC_PSYCHO_NV = register("music_disc.psycho_nv");
 	public static final SoundEvent MUSIC_DISC_PANIC_ROOM = register("music_disc.panic_room");
+	public static final SoundEvent MUSIC_DISC_JOYCA_TRUE_DU_Q = register("music_disc.joyca_true_du_q");
+	public static final SoundEvent MUSIC_DISC_MASTU_BELEK = register("music_disc.mastu_belek");
+	public static final SoundEvent MUSIC_DISC_NIGHTMARE_AZARI = register("music_disc.nightmare_azari");
+	public static final SoundEvent MUSIC_DISC_ON_DAT_BXTCH_SLOWED = register("music_disc.on_dat_bxtch_slowed");
+	public static final SoundEvent MUSIC_DISC_OOYY_COME_2GETHER_BASS_BOOSTED =
+		register("music_disc.ooyy_come_2gether_bass_boosted");
+	public static final SoundEvent MUSIC_DISC_THE_VOID_SLOWED = register("music_disc.the_void_slowed");
+	public static final SoundEvent MUSIC_DISC_VAPORCHROME_DECKED_SLOWED_REVERB =
+		register("music_disc.vaporchrome_decked_slowed_reverb");
+	public static final SoundEvent MUSIC_DISC_WE_FELL_APART_SLOWED = register("music_disc.we_fell_apart_slowed");
+	public static final SoundEvent MUSIC_DISC_FINE_LINE_INSTRUMENTAL = register("music_disc.fine_line_instrumental");
+	public static final SoundEvent MUSIC_DISC_YOUR_SPELL = register("music_disc.your_spell");
+	public static final SoundEvent MUSIC_DISC_RIGHT_HERE_RIGHT_NOW = register("music_disc.right_here_right_now");
+	public static final SoundEvent MUSIC_DISC_POKER_FACE = register("music_disc.poker_face");
+	public static final SoundEvent MUSIC_DISC_ONE_MORE_TIME = register("music_disc.one_more_time");
+	public static final SoundEvent MUSIC_DISC_NIGHTCALL = register("music_disc.nightcall");
+	public static final SoundEvent MUSIC_DISC_CLASH_ASSASSINS = register("music_disc.clash_assassins");
+	public static final SoundEvent MUSIC_DISC_ATHENA_SMLE_ETERNAL = register("music_disc.athena_smle_eternal");
 
 	private ModSounds() {
 	}

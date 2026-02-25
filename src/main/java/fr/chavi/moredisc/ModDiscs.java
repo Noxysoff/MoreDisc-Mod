@@ -13,7 +13,7 @@ import net.minecraft.registry.RegistryKey;
 import net.minecraft.registry.RegistryKeys;
 
 public final class ModDiscs {
-	public static final int TRACK_COUNT = 23;
+	public static final int TRACK_COUNT = 39;
 
 	private static final DiscDefinition[] DISC_DEFINITIONS = {
 		new DiscDefinition("disc_christmas", "disc_christmas", Rarity.RARE),
@@ -54,7 +54,31 @@ public final class ModDiscs {
 		new DiscDefinition("disc_im_a_pancake", "disc_im_a_pancake", Rarity.EPIC),
 		new DiscDefinition("disc_tf1", "disc_tf1", Rarity.EPIC),
 		new DiscDefinition("disc_psycho_nv", "disc_psycho_nv", Rarity.RARE),
-		new DiscDefinition("disc_panic_room", "disc_panic_room", Rarity.RARE)
+		new DiscDefinition("disc_panic_room", "disc_panic_room", Rarity.RARE),
+		new DiscDefinition("disc_joyca_true_du_q", "disc_joyca_true_du_q", Rarity.RARE),
+		new DiscDefinition("disc_mastu_belek", "disc_mastu_belek", Rarity.RARE),
+		new DiscDefinition("disc_nightmare_azari", "disc_nightmare_azari", Rarity.RARE),
+		new DiscDefinition("disc_on_dat_bxtch_slowed", "disc_on_dat_bxtch_slowed", Rarity.RARE),
+		new DiscDefinition(
+			"disc_ooyy_come_2gether_bass_boosted",
+			"disc_ooyy_come_2gether_bass_boosted",
+			Rarity.RARE
+		),
+		new DiscDefinition("disc_the_void_slowed", "disc_the_void_slowed", Rarity.RARE),
+		new DiscDefinition(
+			"disc_vaporchrome_decked_slowed_reverb",
+			"disc_vaporchrome_decked_slowed_reverb",
+			Rarity.RARE
+		),
+		new DiscDefinition("disc_we_fell_apart_slowed", "disc_we_fell_apart_slowed", Rarity.RARE),
+		new DiscDefinition("disc_fine_line_instrumental", "disc_fine_line_instrumental", Rarity.RARE),
+		new DiscDefinition("disc_your_spell", "disc_your_spell", Rarity.RARE),
+		new DiscDefinition("disc_right_here_right_now", "disc_right_here_right_now", Rarity.RARE),
+		new DiscDefinition("disc_poker_face", "disc_poker_face", Rarity.RARE),
+		new DiscDefinition("disc_one_more_time", "disc_one_more_time", Rarity.RARE),
+		new DiscDefinition("disc_nightcall", "disc_nightcall", Rarity.RARE),
+		new DiscDefinition("disc_clash_assassins", "disc_clash_assassins", Rarity.RARE),
+		new DiscDefinition("disc_athena_smle_eternal", "disc_athena_smle_eternal", Rarity.RARE)
 	};
 
 	private static final List<Item> REGISTERED_DISCS = new ArrayList<>();

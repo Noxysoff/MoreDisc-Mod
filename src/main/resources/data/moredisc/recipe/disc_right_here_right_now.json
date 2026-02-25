@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "key": {
+    "#": "minecraft:black_dye",
+    "X": "minecraft:compass"
+  },
+  "result": {
+    "count": 1,
+    "id": "moredisc:disc_right_here_right_now"
+  }
+}
